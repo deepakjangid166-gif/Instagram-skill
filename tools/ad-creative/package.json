@@ -1,0 +1,9 @@
+{
+  "name": "ad-creative",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Turn a product photo into an Instagram ad creative (square, 4:5 or story).",
+  "bin": { "ad-creative": "./generate.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "sharp": "^0.33.5" }
+}
