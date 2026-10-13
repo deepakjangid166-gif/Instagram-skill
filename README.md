@@ -70,6 +70,12 @@ out loud.
 | `/ig-repurpose` | One video, podcast or newsletter into a week of reels and carousels that each stand alone. |
 | `/ig-audit` | Post-mortem on what you already posted. Ranks by outlier multiple and sends per reach, not views. |
 
+## Bundled: video ads
+
+| command | what it does |
+| --- | --- |
+| `/video-ad-generator` | Creative brief, hook formulas, script structures, multi-format and A/B testing frameworks for video ads, with optional Creatify API automation. Vendored unchanged from [creatify-ai/video-ad-generator](https://github.com/creatify-ai/video-ad-generator) (MIT, license in `skills/video-ad-generator/`). Not part of the thirteen Instagram skills. |
+
 ## The five tools that actually run
 
 No dependencies, no network, nothing uploaded. They run on your machine, on
