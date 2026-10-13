@@ -58,6 +58,7 @@ out loud.
 | --- | --- |
 | `/ig-reel` | One idea into a Reel. Three hooks from [26 formulas](skills/ig-reel/hooks.json), scored, then the script, the on-screen text and a timed beat sheet. |
 | `/ig-viral` | Goes and finds what is working in your niche, ranks it by multiple over each account's own median, names the formula, writes the swipe file. |
+| `/agnes-video-generator` | Turns a finished Reel script into timed, per-shot prompts for an AI text-to-video generator: 9:16, safe zone, no baked-in text. |
 | `/ig-caption` | The caption, linted. Shows you the 125 characters the feed actually shows before the tap. |
 | `/ig-carousel` | Swipe posts. The cover that earns the swipe, slide copy, and the 1080x1350 files. |
 | `/ig-story` | The daily story sequence, which sticker does which job, and the DM funnel that starts with them moving first. |
